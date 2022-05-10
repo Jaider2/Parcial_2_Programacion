@@ -34,4 +34,4 @@ de los xnuevo aparece en la tabla de las raices del polinomio, en caso de no apa
 continuara con la siguiente vuelta, en caso de aparecer se cerrara el ciclo y solo guardara
 los datos recogidos hasta este punto.
 
-Final mente se imprime el polinomio dado junto con las iteraciones de una de sus raices.
+Finalmente se imprime el polinomio dado junto con las iteraciones de una de sus raices.
